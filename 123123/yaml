@@ -1,0 +1,13 @@
+proxies:
+  - name: "vmess+ws+GYut.love@xray.com"
+    type: vmess
+    server: 40.81.192.53
+    port: 37534
+    uuid: 0b46d17c-3cec-4185-f4a6-6cea50bfa47e
+    alterId: 0
+    cipher: auto
+    tls: false
+    network: ws
+    ws-opts:
+      path: "/0b46d17c"
+    skip-cert-verify: true
