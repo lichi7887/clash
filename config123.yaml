@@ -1,0 +1,15 @@
+proxies:
+  - name: "vless+vision+reality"
+    type: vless
+    server: 40.81.192.53
+    port: 443
+    uuid: 298accc6-672e-46a3-8f3d-07a8523f644e
+    alterId: 0
+    cipher: auto
+    tls: true
+    flow: xtls-rprx-vision
+    sni: 298accc6.com
+    pbk: g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM
+    fp: chrome
+    skip-cert-verify: true
+    network: tcp
